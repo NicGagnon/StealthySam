@@ -5,4 +5,4 @@ Stealthy Sam is a topdown roguelike game. The user must navigate the various lev
 To play:
 
 MAC
-cd into build-opt and run 'make -j 7 %% ./436d'
+cd into build-opt and run 'make -j 7 && ./436d'
