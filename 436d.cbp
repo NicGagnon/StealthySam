@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="436d"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="436d">
+				<Option output="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/436d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src"/>
+					<Add directory="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/ext/stb_image"/>
+					<Add directory="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/ext/gl3w"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/usr/local/include/bullet"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include"/>
+					<Add directory="/usr/local/include/SDL2"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 436d"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="436d/fast">
+				<Option output="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/436d" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src"/>
+					<Add directory="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/ext/stb_image"/>
+					<Add directory="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/ext/gl3w"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/OpenGL.framework"/>
+					<Add directory="/usr/local/include/bullet"/>
+					<Add directory="/usr/local/Cellar/glfw/3.2.1/include"/>
+					<Add directory="/usr/local/include/SDL2"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 436d/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/Gagnon/Documents/4th\ Year/CPSC436D/Stealthy_Sam/team05game/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/CollisionSystem.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/CollisionSystem.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/GameStateCmp.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/GameStateCmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ItemCmp.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ItemCmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ParticleCmp.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ParticleCmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DecisionNode.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DecisionNode.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DrawSystem.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DrawSystem.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemyCone.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemyCone.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemySystem.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemySystem.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Entity.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EntityGenerator.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EntityGenerator.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/InputSystem.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/InputSystem.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/LightSystem.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/LightSystem.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MissileSystem.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MissileSystem.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MovementSystem.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MovementSystem.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ParticleSystem.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ParticleSystem.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/BossStrategy.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/BossStrategy.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TextSystem.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TextSystem.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/light.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/light.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/main.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/project_path.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/text.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/text.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/world.cpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/world.hpp">
+			<Option target="436d"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/project_path.hpp.in">
+			<Option virtualFolder="CMake Files\src\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

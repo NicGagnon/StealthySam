@@ -1,0 +1,1672 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ext/gl3w/gl3w.h
+gl3w.h
+../ext/gl3w/gl3w.h
+glcorearb.h
+../ext/gl3w/glcorearb.h
+windows.h
+-
+Carbon/Carbon.h
+-
+dlfcn.h
+-
+GL/glx.h
+-
+
+../ext/gl3w/glcorearb.h
+windows.h
+-
+stddef.h
+-
+inttypes.h
+-
+inttypes.h
+-
+inttypes.h
+-
+stdint.h
+-
+stdint.h
+-
+inttypes.h
+-
+
+../ext/json/json.hpp
+algorithm
+-
+cassert
+-
+ciso646
+-
+cstddef
+-
+functional
+-
+initializer_list
+-
+iosfwd
+-
+iterator
+-
+numeric
+-
+string
+-
+utility
+-
+cstdint
+-
+map
+-
+memory
+-
+string
+-
+vector
+-
+ciso646
+-
+cstddef
+-
+type_traits
+-
+ciso646
+-
+limits
+-
+type_traits
+-
+utility
+-
+iterator
+-
+type_traits
+-
+exception
+-
+stdexcept
+-
+string
+-
+cstddef
+-
+array
+-
+ciso646
+-
+cstddef
+-
+cstdint
+-
+algorithm
+-
+array
+-
+ciso646
+-
+forward_list
+-
+iterator
+-
+map
+-
+string
+-
+tuple
+-
+type_traits
+-
+unordered_map
+-
+utility
+-
+valarray
+-
+ciso646
+-
+iterator
+-
+tuple
+-
+type_traits
+-
+utility
+-
+valarray
+-
+vector
+-
+cstddef
+-
+string
+-
+iterator
+-
+tuple
+-
+cassert
+-
+cstddef
+-
+cstring
+-
+istream
+-
+iterator
+-
+memory
+-
+numeric
+-
+string
+-
+type_traits
+-
+utility
+-
+cstdio
+-
+clocale
+-
+cstddef
+-
+cstdlib
+-
+cstdio
+-
+initializer_list
+-
+string
+-
+vector
+-
+cassert
+-
+cmath
+-
+cstdint
+-
+functional
+-
+string
+-
+utility
+-
+cstdint
+-
+utility
+-
+cstddef
+-
+string
+-
+vector
+-
+cstddef
+-
+limits
+-
+ciso646
+-
+iterator
+-
+type_traits
+-
+cstddef
+-
+iterator
+-
+utility
+-
+algorithm
+-
+cstddef
+-
+ios
+-
+iterator
+-
+memory
+-
+ostream
+-
+string
+-
+vector
+-
+algorithm
+-
+array
+-
+cassert
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdio
+-
+cstring
+-
+iterator
+-
+limits
+-
+string
+-
+utility
+-
+algorithm
+-
+array
+-
+cstdint
+-
+cstring
+-
+limits
+-
+algorithm
+-
+array
+-
+cassert
+-
+ciso646
+-
+clocale
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdio
+-
+limits
+-
+string
+-
+type_traits
+-
+cassert
+-
+ciso646
+-
+cmath
+-
+cstdint
+-
+cstring
+-
+initializer_list
+-
+utility
+-
+cassert
+-
+numeric
+-
+string
+-
+vector
+-
+utility
+-
+
+../src/Components/Cmp.hpp
+../Entity.hpp
+../src/Entity.hpp
+../common.hpp
+../src/common.hpp
+vector
+-
+
+../src/Components/CollisionCmp.hpp
+Cmp.hpp
+../src/Components/Cmp.hpp
+
+../src/Components/DrawCmp.hpp
+Cmp.hpp
+../src/Components/Cmp.hpp
+
+../src/Components/GameStateCmp.hpp
+Cmp.hpp
+../src/Components/Cmp.hpp
+
+../src/Components/MovementCmp.hpp
+Cmp.hpp
+../src/Components/Cmp.hpp
+
+../src/Components/TransformCmp.hpp
+Cmp.hpp
+../src/Components/Cmp.hpp
+
+../src/Entity.hpp
+string
+-
+
+../src/Strategies/BossStrategy.hpp
+strategies_common.hpp
+../src/Strategies/strategies_common.hpp
+
+../src/Strategies/strategies_common.hpp
+Components/GameStateCmp.hpp
+-
+
+../src/common.hpp
+fstream
+-
+gl3w.h
+-
+GLFW/glfw3.h
+-
+../ext/json/json.hpp
+-
+project_path.hpp
+../src/project_path.hpp
+
+../src/project_path.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/ext/stb_image/stb_image.h
+stb_image.h
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/ext/stb_image/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/CollisionSystem.cpp
+CollisionSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/CollisionSystem.hpp
+Components/Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+UpdateAction.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/UpdateAction.hpp
+TileConstants.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TileConstants.hpp
+MissileSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MissileSystem.hpp
+Strategies/strategies_common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/strategies_common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/CollisionSystem.hpp
+Components/GameStateCmp.hpp
+-
+Components/CollisionCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+Components/TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Components/ItemCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ItemCmp.hpp
+Components/DrawCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.hpp
+Components/EnemyCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+SoundManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp
+string
+-
+iostream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+../Entity.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Entity.hpp
+../common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+vector
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.cpp
+CollisionCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.cpp
+DrawCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.hpp
+Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.cpp
+EnemyCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp
+Strategies/strategies_common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Strategies/strategies_common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp
+Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/GameStateCmp.cpp
+GameStateCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/GameStateCmp.hpp
+iostream
+-
+string
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/GameStateCmp.hpp
+Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.cpp
+InputCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.hpp
+Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ItemCmp.cpp
+ItemCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ItemCmp.hpp
+string
+-
+iostream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ItemCmp.hpp
+Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.cpp
+MovementCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.hpp
+string
+-
+iostream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.hpp
+Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.cpp
+TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DecisionNode.cpp
+DecisionNode.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DecisionNode.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DecisionNode.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+vector
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DrawSystem.cpp
+Components/GameStateCmp.hpp
+-
+DrawSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DrawSystem.hpp
+Components/Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+Strategies/strategies_common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/strategies_common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DrawSystem.hpp
+Components/DrawCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.hpp
+Components/TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Components/MovementCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.hpp
+Components/EnemyCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+SoundManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemyCone.cpp
+EnemyCone.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemyCone.hpp
+iostream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemyCone.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemySystem.cpp
+Components/GameStateCmp.hpp
+-
+EnemySystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemySystem.hpp
+UpdateAction.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/UpdateAction.hpp
+TileConstants.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TileConstants.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemySystem.hpp
+Components/CollisionCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+Components/TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Components/DrawCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.hpp
+Components/EnemyCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp
+Components/ItemCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ItemCmp.hpp
+Components/MovementCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.hpp
+DecisionNode.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DecisionNode.hpp
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+SoundManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp
+Strategies/BossStrategy.hpp
+-
+string
+-
+iostream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Entity.hpp
+string
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EntityGenerator.cpp
+iostream
+-
+EntityGenerator.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EntityGenerator.hpp
+TileConstants.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TileConstants.hpp
+SpawnPoints.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SpawnPoints.hpp
+string
+-
+vector
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EntityGenerator.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+Components/Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+Components/DrawCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.hpp
+Components/TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Components/GameStateCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/GameStateCmp.hpp
+Components/InputCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.hpp
+Components/CollisionCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+Components/EnemyCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp
+Components/MovementCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.hpp
+Components/ItemCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ItemCmp.hpp
+water.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/water.hpp
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+DrawSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/DrawSystem.hpp
+InputSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/InputSystem.hpp
+CollisionSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/CollisionSystem.hpp
+EnemySystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemySystem.hpp
+MovementSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MovementSystem.hpp
+TextSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TextSystem.hpp
+LightSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/LightSystem.hpp
+Entity.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Entity.hpp
+light.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/light.hpp
+text.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/text.hpp
+EnemyCone.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemyCone.hpp
+MissileSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MissileSystem.hpp
+vector
+-
+string
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/InputSystem.cpp
+iostream
+-
+cstring
+-
+InputSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/InputSystem.hpp
+Components/Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+UpdateAction.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/UpdateAction.hpp
+Strategies/strategies_common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/strategies_common.hpp
+TileConstants.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TileConstants.hpp
+CollisionSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/CollisionSystem.hpp
+iostream
+-
+string
+-
+math.h
+-
+algorithm
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/InputSystem.hpp
+Components/GameStateCmp.hpp
+-
+Components/TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Components/InputCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.hpp
+Components/ItemCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/ItemCmp.hpp
+Components/CollisionCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+Components/MovementCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.hpp
+Components/EnemyCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+SoundManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/LightSystem.cpp
+LightSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/LightSystem.hpp
+Components/Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+string
+-
+iostream
+-
+Components/GameStateCmp.hpp
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/LightSystem.hpp
+Components/GameStateCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/GameStateCmp.hpp
+Components/InputCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.hpp
+Components/TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Components/CollisionCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+water.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/water.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+light.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/light.hpp
+text.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/text.hpp
+EnemyCone.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemyCone.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MissileSystem.cpp
+iostream
+-
+MissileSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MissileSystem.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MissileSystem.hpp
+Components/GameStateCmp.hpp
+-
+Components/CollisionCmp.hpp
+-
+Components/MovementCmp.hpp
+-
+Components/DrawCmp.hpp
+-
+Components/TransformCmp.hpp
+-
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+stdio.h
+-
+sstream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MovementSystem.cpp
+MovementSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MovementSystem.hpp
+CollisionSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/CollisionSystem.hpp
+Components/Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+string
+-
+iostream
+-
+Components/GameStateCmp.hpp
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/MovementSystem.hpp
+Components/GameStateCmp.hpp
+-
+Components/InputCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.hpp
+Components/TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Components/CollisionCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+Components/MovementCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/MovementCmp.hpp
+Components/EnemyCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+SoundManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+Entity.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Entity.hpp
+vector
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.cpp
+SoundManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp
+SDL_mixer.h
+-
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SpawnPoints.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/BossStrategy.cpp
+iostream
+-
+BossStrategy.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/BossStrategy.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/BossStrategy.hpp
+strategies_common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/strategies_common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Strategies/strategies_common.hpp
+Components/GameStateCmp.hpp
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TextSystem.cpp
+TextSystem.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TextSystem.hpp
+Components/Cmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/Cmp.hpp
+string
+-
+iostream
+-
+Components/GameStateCmp.hpp
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TextSystem.hpp
+Components/GameStateCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/GameStateCmp.hpp
+Components/InputCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.hpp
+Components/TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Components/CollisionCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+SoundManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp
+text.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/text.hpp
+EnemyCone.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemyCone.hpp
+light.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/light.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TileConstants.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/UpdateAction.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.cpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+../ext/stb_image/stb_image.h
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/ext/stb_image/stb_image.h
+vector
+-
+iostream
+-
+sstream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+fstream
+-
+gl3w.h
+-
+GLFW/glfw3.h
+-
+../ext/json/json.hpp
+-
+project_path.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/project_path.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/light.cpp
+light.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/light.hpp
+iostream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/light.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/main.cpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+world.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/world.hpp
+gl3w.h
+-
+chrono
+-
+iostream
+-
+algorithm
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/project_path.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/text.cpp
+text.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/text.hpp
+iostream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/text.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/water.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/world.cpp
+world.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/world.hpp
+TileConstants.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/TileConstants.hpp
+UpdateAction.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/UpdateAction.hpp
+string.h
+-
+cassert
+-
+string
+-
+sstream
+-
+iostream
+-
+
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/world.hpp
+common.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/common.hpp
+water.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/water.hpp
+light.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/light.hpp
+EnemyCone.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EnemyCone.hpp
+text.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/text.hpp
+Components/DrawCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/DrawCmp.hpp
+Components/TransformCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/TransformCmp.hpp
+Components/InputCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/InputCmp.hpp
+Components/CollisionCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/CollisionCmp.hpp
+Components/EnemyCmp.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/Components/EnemyCmp.hpp
+ObjectManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/ObjectManager.hpp
+SoundManager.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/SoundManager.hpp
+EntityGenerator.hpp
+/Users/Gagnon/Documents/4th Year/CPSC436D/Stealthy_Sam/team05game/src/EntityGenerator.hpp
+vector
+-
+random
+-
+string
+-
+SDL.h
+-
+SDL_mixer.h
+-
+Components/GameStateCmp.hpp
+-
+
+/usr/local/Cellar/glfw/3.2.1/include/GLFW/glfw3.h
+stddef.h
+-
+stdint.h
+-
+OpenGL/gl3.h
+-
+OpenGL/gl3ext.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GL/glcorearb.h
+-
+GLES/gl.h
+-
+GLES/glext.h
+-
+GLES2/gl2.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl3.h
+-
+GLES2/gl2ext.h
+-
+GLES3/gl31.h
+-
+GLES2/gl2ext.h
+-
+vulkan/vulkan.h
+-
+GL/gl.h
+-
+GL/glext.h
+-
+GL/glu.h
+-
+
+/usr/local/include/SDL2/SDL.h
+SDL_main.h
+/usr/local/include/SDL2/SDL_main.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_assert.h
+/usr/local/include/SDL2/SDL_assert.h
+SDL_atomic.h
+/usr/local/include/SDL2/SDL_atomic.h
+SDL_audio.h
+/usr/local/include/SDL2/SDL_audio.h
+SDL_clipboard.h
+/usr/local/include/SDL2/SDL_clipboard.h
+SDL_cpuinfo.h
+/usr/local/include/SDL2/SDL_cpuinfo.h
+SDL_endian.h
+/usr/local/include/SDL2/SDL_endian.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_events.h
+/usr/local/include/SDL2/SDL_events.h
+SDL_filesystem.h
+/usr/local/include/SDL2/SDL_filesystem.h
+SDL_gamecontroller.h
+/usr/local/include/SDL2/SDL_gamecontroller.h
+SDL_haptic.h
+/usr/local/include/SDL2/SDL_haptic.h
+SDL_hints.h
+/usr/local/include/SDL2/SDL_hints.h
+SDL_joystick.h
+/usr/local/include/SDL2/SDL_joystick.h
+SDL_loadso.h
+/usr/local/include/SDL2/SDL_loadso.h
+SDL_log.h
+/usr/local/include/SDL2/SDL_log.h
+SDL_messagebox.h
+/usr/local/include/SDL2/SDL_messagebox.h
+SDL_mutex.h
+/usr/local/include/SDL2/SDL_mutex.h
+SDL_power.h
+/usr/local/include/SDL2/SDL_power.h
+SDL_render.h
+/usr/local/include/SDL2/SDL_render.h
+SDL_rwops.h
+/usr/local/include/SDL2/SDL_rwops.h
+SDL_sensor.h
+/usr/local/include/SDL2/SDL_sensor.h
+SDL_shape.h
+/usr/local/include/SDL2/SDL_shape.h
+SDL_system.h
+/usr/local/include/SDL2/SDL_system.h
+SDL_thread.h
+/usr/local/include/SDL2/SDL_thread.h
+SDL_timer.h
+/usr/local/include/SDL2/SDL_timer.h
+SDL_version.h
+/usr/local/include/SDL2/SDL_version.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_assert.h
+SDL_config.h
+/usr/local/include/SDL2/SDL_config.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+signal.h
+-
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_atomic.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_platform.h
+/usr/local/include/SDL2/SDL_platform.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+mbarrier.h
+-
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_audio.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_endian.h
+/usr/local/include/SDL2/SDL_endian.h
+SDL_mutex.h
+/usr/local/include/SDL2/SDL_mutex.h
+SDL_thread.h
+/usr/local/include/SDL2/SDL_thread.h
+SDL_rwops.h
+/usr/local/include/SDL2/SDL_rwops.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_blendmode.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_clipboard.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_config.h
+SDL_platform.h
+/usr/local/include/SDL2/SDL_platform.h
+
+/usr/local/include/SDL2/SDL_cpuinfo.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+intrin.h
+-
+intrin.h
+-
+altivec.h
+-
+arm_neon.h
+-
+mm3dnow.h
+-
+immintrin.h
+-
+mmintrin.h
+-
+xmmintrin.h
+-
+emmintrin.h
+-
+pmmintrin.h
+-
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_endian.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+endian.h
+-
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_error.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_events.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+SDL_keyboard.h
+/usr/local/include/SDL2/SDL_keyboard.h
+SDL_mouse.h
+/usr/local/include/SDL2/SDL_mouse.h
+SDL_joystick.h
+/usr/local/include/SDL2/SDL_joystick.h
+SDL_gamecontroller.h
+/usr/local/include/SDL2/SDL_gamecontroller.h
+SDL_quit.h
+/usr/local/include/SDL2/SDL_quit.h
+SDL_gesture.h
+/usr/local/include/SDL2/SDL_gesture.h
+SDL_touch.h
+/usr/local/include/SDL2/SDL_touch.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_filesystem.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_gamecontroller.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_rwops.h
+/usr/local/include/SDL2/SDL_rwops.h
+SDL_joystick.h
+/usr/local/include/SDL2/SDL_joystick.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_gesture.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+SDL_touch.h
+/usr/local/include/SDL2/SDL_touch.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_haptic.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_joystick.h
+/usr/local/include/SDL2/SDL_joystick.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_hints.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_joystick.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_keyboard.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_keycode.h
+/usr/local/include/SDL2/SDL_keycode.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_keycode.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_scancode.h
+/usr/local/include/SDL2/SDL_scancode.h
+
+/usr/local/include/SDL2/SDL_loadso.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_log.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_main.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_messagebox.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_mixer.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_rwops.h
+/usr/local/include/SDL2/SDL_rwops.h
+SDL_audio.h
+/usr/local/include/SDL2/SDL_audio.h
+SDL_endian.h
+/usr/local/include/SDL2/SDL_endian.h
+SDL_version.h
+/usr/local/include/SDL2/SDL_version.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_mouse.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_mutex.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_pixels.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_endian.h
+/usr/local/include/SDL2/SDL_endian.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_platform.h
+AvailabilityMacros.h
+/usr/local/include/SDL2/AvailabilityMacros.h
+TargetConditionals.h
+/usr/local/include/SDL2/TargetConditionals.h
+winapifamily.h
+-
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_power.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_quit.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+
+/usr/local/include/SDL2/SDL_rect.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_pixels.h
+/usr/local/include/SDL2/SDL_pixels.h
+SDL_rwops.h
+/usr/local/include/SDL2/SDL_rwops.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_render.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_rect.h
+/usr/local/include/SDL2/SDL_rect.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_rwops.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_scancode.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+
+/usr/local/include/SDL2/SDL_sensor.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_shape.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+/usr/local/include/SDL2/SDL_pixels.h
+SDL_rect.h
+/usr/local/include/SDL2/SDL_rect.h
+SDL_surface.h
+/usr/local/include/SDL2/SDL_surface.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_config.h
+/usr/local/include/SDL2/SDL_config.h
+sys/types.h
+-
+stdio.h
+-
+stdlib.h
+-
+stddef.h
+-
+stdarg.h
+-
+stdlib.h
+-
+malloc.h
+-
+stddef.h
+-
+stdarg.h
+-
+memory.h
+-
+string.h
+-
+strings.h
+-
+wchar.h
+-
+inttypes.h
+-
+stdint.h
+-
+ctype.h
+-
+math.h
+-
+float.h
+-
+alloca.h
+-
+malloc.h
+-
+malloc.h
+-
+malloc.h
+-
+stdlib.h
+-
+sal.h
+-
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_surface.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+/usr/local/include/SDL2/SDL_pixels.h
+SDL_rect.h
+/usr/local/include/SDL2/SDL_rect.h
+SDL_blendmode.h
+/usr/local/include/SDL2/SDL_blendmode.h
+SDL_rwops.h
+/usr/local/include/SDL2/SDL_rwops.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_system.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_keyboard.h
+/usr/local/include/SDL2/SDL_keyboard.h
+SDL_render.h
+/usr/local/include/SDL2/SDL_render.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_thread.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_atomic.h
+/usr/local/include/SDL2/SDL_atomic.h
+SDL_mutex.h
+/usr/local/include/SDL2/SDL_mutex.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+process.h
+-
+process.h
+-
+stdlib.h
+-
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_timer.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_touch.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_error.h
+/usr/local/include/SDL2/SDL_error.h
+SDL_video.h
+/usr/local/include/SDL2/SDL_video.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_version.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/SDL_video.h
+SDL_stdinc.h
+/usr/local/include/SDL2/SDL_stdinc.h
+SDL_pixels.h
+/usr/local/include/SDL2/SDL_pixels.h
+SDL_rect.h
+/usr/local/include/SDL2/SDL_rect.h
+SDL_surface.h
+/usr/local/include/SDL2/SDL_surface.h
+begin_code.h
+/usr/local/include/SDL2/begin_code.h
+close_code.h
+/usr/local/include/SDL2/close_code.h
+
+/usr/local/include/SDL2/begin_code.h
+
+/usr/local/include/SDL2/close_code.h
+
