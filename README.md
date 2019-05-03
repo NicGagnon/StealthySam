@@ -1,9 +1,8 @@
-# 436D 2018 Winter 2, Assignment 1
+UBC CPSC 436d project
 
-The assignment details are [here](https://www.cs.ubc.ca/~sheffa/games_course/Vjan19/assn/A1.pdf).
+Stealthy Sam is a topdown roguelike game. The user must navigate the various levels, puzzles and enemies to reach the final boss and rid the haunted mansion of the evil spirits. Will you succeed?
 
-To get started, clone this repository by running:
+To play:
 
-```
-git clone https://stash.ugrad.cs.ubc.ca:8443/scm/cs436d18w2/assginment1.git
-```
+MAC
+cd into build-opt and run 'make -j 7 %% ./436d'
